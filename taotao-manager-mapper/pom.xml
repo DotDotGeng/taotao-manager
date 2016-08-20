@@ -30,6 +30,11 @@
 				<artifactId>mybatis-paginator</artifactId>
 				<version>${mybatis.paginator.version}</version>
 			</dependency>
+			
+			<dependency>
+				<groupId>com.github.pagehelper</groupId>
+				<artifactId>pagehelper</artifactId>
+			</dependency>
 			<!-- MySql -->
 			<dependency>
 				<groupId>mysql</groupId>
